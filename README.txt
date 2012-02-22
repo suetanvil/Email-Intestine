@@ -1,5 +1,5 @@
-						   Email::Intestine
-						   ================
+                           Email::Intestine
+                           ================
 
 This is a Perl module that implements basic email filtering.  It is
 similar to Email::Filter but does not have any dependencies beyond
